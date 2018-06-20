@@ -6,7 +6,7 @@ Total Supply: 100,000,000 by 2035
 Pre Mine: 10,000,000
 Block Reward: 10 VCC
 Block Spacing: 60 Seconds
-Masternode: Collateral 10,000 VCC (Block Reward 75%)
+Masternode: Collateral 5,000 VCC (Block Reward 75%)
 Proof of Stake: Block Reward: 25%
 Proof of work: None
 Coin Maturity: 20 Blocks
